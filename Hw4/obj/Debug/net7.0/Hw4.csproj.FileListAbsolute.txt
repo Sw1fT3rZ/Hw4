@@ -1,0 +1,14 @@
+E:\VisStud\dz\Hw4\Hw4\bin\Debug\net7.0\Hw4.exe
+E:\VisStud\dz\Hw4\Hw4\bin\Debug\net7.0\Hw4.deps.json
+E:\VisStud\dz\Hw4\Hw4\bin\Debug\net7.0\Hw4.runtimeconfig.json
+E:\VisStud\dz\Hw4\Hw4\bin\Debug\net7.0\Hw4.dll
+E:\VisStud\dz\Hw4\Hw4\bin\Debug\net7.0\Hw4.pdb
+E:\VisStud\dz\Hw4\Hw4\obj\Debug\net7.0\Hw4.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisStud\dz\Hw4\Hw4\obj\Debug\net7.0\Hw4.AssemblyInfoInputs.cache
+E:\VisStud\dz\Hw4\Hw4\obj\Debug\net7.0\Hw4.AssemblyInfo.cs
+E:\VisStud\dz\Hw4\Hw4\obj\Debug\net7.0\Hw4.csproj.CoreCompileInputs.cache
+E:\VisStud\dz\Hw4\Hw4\obj\Debug\net7.0\Hw4.dll
+E:\VisStud\dz\Hw4\Hw4\obj\Debug\net7.0\refint\Hw4.dll
+E:\VisStud\dz\Hw4\Hw4\obj\Debug\net7.0\Hw4.pdb
+E:\VisStud\dz\Hw4\Hw4\obj\Debug\net7.0\Hw4.genruntimeconfig.cache
+E:\VisStud\dz\Hw4\Hw4\obj\Debug\net7.0\ref\Hw4.dll
